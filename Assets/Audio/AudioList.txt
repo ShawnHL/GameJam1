@@ -1,0 +1,11 @@
+Music:
+mus_BGM1_bpm90.wav #Back ground music
+
+Sound Effects:
+sfx_rubbing.wav # Sound effect of rubbing on glass
+
+Ambient sounds:
+amb_street.wav #bird sound
+amb_car_driveBy #Car drive by
+amb_car_Horn1.mp3 
+amb_car_horn2.wav #2 kind of sounds(there are 2 format of file, 1 .mp3+ 1 .wav)

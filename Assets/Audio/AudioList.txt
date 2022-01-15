@@ -1,5 +1,5 @@
 Music:
-mus_BGM1_bpm90.wav #Back ground music
+mus_bgm1_90.wav #Back ground music
 
 Sound Effects:
 sfx_rubbing.wav # Sound effect of rubbing on glass
